@@ -1,0 +1,18 @@
+.no-visited-countries-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  min-height: 30vh;
+}
+.paragraph {
+  color: #ffffff;
+  font-family: roboto;
+  font-size: 32px;
+}
+.visited-countries-list {
+  list-style: none;
+  display: flex;
+  margin-left: -50px;
+  flex-wrap: wrap;
+}

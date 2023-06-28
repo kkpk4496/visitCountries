@@ -1,0 +1,30 @@
+.visitedlist-container {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 5px;
+}
+.delete-button {
+  color: #ffffff;
+  background-color: transparent;
+  border: solid;
+  border-width: 1px;
+  border-color: #f1f5f9;
+  border-radius: 6px;
+  width: 5vw;
+  height: 5vh;
+  font-weight: 600;
+  cursor: pointer;
+}
+.image {
+  width: 250px;
+}
+.delete-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+p {
+  color: #ffffff;
+}
